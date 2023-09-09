@@ -1,4 +1,4 @@
-# Flutter Front End
+# FlutterApp
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -9,7 +9,7 @@
 6. [Usage](#usage)
 
 ## Introduction
-The Flutter Front End is a new front end made with Flutter, which sets out to create an intuitive mobile ui to both create new flights and view previous ones. It communicates with the RestApi backend to obtain all the needed information from the database.
+The FlutterApp is a new front end made with Flutter, which sets out to create an intuitive mobile ui to both create new flights and view previous ones. It communicates with the RestApi backend to obtain all the needed information from the database.
 
 ## Requirements
 Before starting with the installation, make sure you have the following software installed on your system:
